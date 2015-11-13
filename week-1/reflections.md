@@ -29,3 +29,32 @@ rm – remove a file
 help – used to find the description of a command and its’ function.
 
 # 1.4 Forking and Cloning Reflection
+
+If a new person wanted to create a new repo, fork, and clone a repo they should follow these instructions:
+
+**To create a new repo:**
+-	Log in to your GitHub account.
+-	Navigate to the top right corner of the page where you will see a plus sign.
+-	Click the plus sign which will show new repository and new organization.
+-	Click new repository.
+-	Enter your repository name, select whether you want to make it public or private, and determine if you want to add a license.
+-	Click the big green button labeled “Create repository”.
+*You have successfully created a new repository!*
+
+**To fork a repository:**
+-	When on a given repository, navigate to the right side of the webpage. 
+-	Click the “Fork” button.
+-	Ensure that the repository and its’ original name is behind your GitHub user folder.
+*You have successfully forked a repository!*
+
+**To clone a repository:**
+-	Open your command terminal.
+-	Access a repository in GitHub and navigate to the right side of the screen.
+-	Click the “copy to clipboard” button under the “clone URL”
+-	In your command terminal make sure you are in the proper directory that you want to clone the repository to.
+-	Type: git clone copiedURL. Press enter.
+*You have successfully cloned a repository!*
+
+I had some silly struggles while cloning the directory. Since I am on a Windows PC I logged into the virtual linux machine and attempted to clone the repository into that which clearly did not work. It took a little more time to figure out what was going on, but in the end I did some solid research to help me properly clone the repository to my local directory.
+
+I also struggled removing the cloned repository, because of a couple of hidden files and GitHub automatically attaching a hidden .git tag to the repository. This allowed me to find out the ls –a command and how to delete the tag, before reinstalling the repository to my local environment.
