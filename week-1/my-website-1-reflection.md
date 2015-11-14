@@ -1,4 +1,4 @@
-# 1.6 Your Websiter, Part 1 Reflection
+# 1.6 Your Website, Part 1 Reflection
 
 **Paste a link to your [USERNAME].github.io repository.**
 http://klimekm.github.io/
