@@ -1,4 +1,4 @@
-![My Website Map](C:\Users\klime_000\Desktop\DBC\phase-0\week-2\imgs\MyWebsiteMap.PNG)
+![My Website Map](/week-2/imgs/MyWebsiteMap.PNG)
 
 **What are the 6 Phases of Web Design?**
 
