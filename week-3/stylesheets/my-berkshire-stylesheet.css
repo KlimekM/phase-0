@@ -1,0 +1,30 @@
+body {
+    color: #000080;
+    background-color: #ffffff;
+}
+a:link {
+    color: #800080;
+}
+a:visited {
+    color: #ff0000;
+}
+h5 {
+    font-weight: bold;
+    text-align: center;
+}
+h5 p {
+    display: block;
+    line-height: 5px;
+}
+p span {
+    font-size: 200%;
+}
+#bold {
+    font-size: 125%; 
+}
+.style {
+    border: 1px solid black;
+}
+table {
+    margin: auto;
+}
