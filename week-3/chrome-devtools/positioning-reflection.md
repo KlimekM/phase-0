@@ -1,7 +1,7 @@
-![3.4.6](/imgs/3.4.6.PNG)
-![3.4.7](/imgs/3.4.7.PNG)
-![3.4.8](/imgs/3.4.8.PNG)
-![3.4.9](/imgs/3.4.9.PNG)
+![3.4.6](../imgs/3.4.6.PNG)
+![3.4.7](../imgs/3.4.7.PNG)
+![3.4.8](../imgs/3.4.8.PNG)
+![3.4.9](../imgs/3.4.9.PNG)
 
 **How can you use Chrome's DevTools inspector to help you format or position elements?**
 
