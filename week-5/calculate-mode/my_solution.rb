@@ -1,6 +1,6 @@
 # Calculate the mode Pairing Challenge
 
-# I worked on this challenge [by myself, with: ]
+# I worked on this challenge with Raj V.
 
 # I spent [1.5] hours on this challenge.
 
