@@ -60,7 +60,7 @@ regions.id=states.region_id
 ORDER BY region_id ASC;
 
 Release 6: Your Own Schema
-![My Clueless Schema](/clueless-schema.PNG)
+![My Clueless Schema](clueless-schema.PNG)
 
 Reflection:
 **What are databases for?**
