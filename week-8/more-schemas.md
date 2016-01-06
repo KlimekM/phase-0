@@ -1,8 +1,8 @@
-![Football Schema](/imgs/football-schema.PNG)
+![Football Schema](imgs/football-schema.PNG)
 
 The image above is an example of a one-to-one schema, because each football team can have only one starting quarterback. Each starting quarterback is the starter for only one team and each team has only one starting quarterback so they have an individual or one-to-one relationship.
 
-![Grocery Schema](/imgs/grocery-schema.PNG)
+![Grocery Schema](imgs/grocery-schema.PNG)
 
 Reflection:
 
