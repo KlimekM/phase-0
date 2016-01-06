@@ -60,9 +60,11 @@ regions.id=states.region_id
 ORDER BY region_id ASC;
 
 Release 6: Your Own Schema
+
 ![My Clueless Schema](clueless-schema.PNG)
 
 Reflection:
+
 **What are databases for?**
 Databases are for storing large/complex amounts of data and allow us to easily access/find the stored data.
 
